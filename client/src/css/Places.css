@@ -1,0 +1,25 @@
+.places-grid {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .place-card {
+    background-color: #f8f8f8;
+    padding: 20px;
+    width: 250px;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+  }
+  
+  .place-card h3 {
+    margin-top: 0;
+  }
+  
+  .place-card:hover {
+    transform: translateY(-5px);
+  }
+  

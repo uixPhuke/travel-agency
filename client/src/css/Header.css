@@ -1,0 +1,26 @@
+.header {
+    background-image: url('https://images.unsplash.com/photo-1593357197653-64a097f94c4a');
+    position: relative;
+    height: 90vh;
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .overlay {
+    position: absolute;
+    inset: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+  }
+  
+  .cta-button {
+    background-color: #ffd700;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 1.25rem;
+    transition: background-color 0.3s ease;
+  }
+  
+  .cta-button:hover {
+    background-color: #ffc107;
+  }
+  
