@@ -33,7 +33,7 @@ const userCtrl={
             await newUser.save();
             
         } catch (error) {
-            
+            return res.status(500).json({message:"Server Error"})
         }
     }
 }
