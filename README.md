@@ -8,7 +8,7 @@ A interactive travel booking platform built using MERN stack and Tailwind CSS.
 ## Collebrators
 
 - [@Gyandeep](https://github.com/codewithgyan467)
-- [@Santu](https://github.com/Samthedeveloper999)
+
 
 
   ## 🚀 About Me
